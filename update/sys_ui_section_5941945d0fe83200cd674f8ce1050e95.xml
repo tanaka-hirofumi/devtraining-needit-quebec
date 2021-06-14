@@ -204,7 +204,7 @@
             <sys_updated_on>2017-02-16 19:40:26</sys_updated_on>
             <sys_user/>
             <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
